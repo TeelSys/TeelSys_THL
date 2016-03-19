@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/richt/OneDrive/Documents/eagle/Temp, Humidity, and Light Sensor/Sensor Board.sch at 3/19/2016 10:20 AM
+
+Part Value             Device            Package          Description                                  
+J-1  4POLE_AUDIO_JACK  4POLE_AUDIO_JACK  4POLE_AUDIO_JACK                                              
+J-2  4POLE_AUDIO_JACK  4POLE_AUDIO_JACK  4POLE_AUDIO_JACK                                              
+JP1                    PINHD-2X3         2X03             PIN HEADER                                   
+LED1                   LED5MM            LED5MM           LED                                          
+PH1  D1160_12          D1160_12          D11XX            Photo Sensor Oil Burner Control Applications 
+R1   10K               R-US_FLIPFLOP     0805-THM         RESISTOR, American symbol                    
+R2   10K               R-US_FLIPFLOP     0805-THM         RESISTOR, American symbol                    
+R3   220               R-US_FLIPFLOP     0805-THM         RESISTOR, American symbol                    
+SE-1 DHT11THROUGH_HOLE DHT11THROUGH_HOLE DHT11                                                         
+U1   ATTINY85-20P      ATTINY85-20P      PDIP08_300MIL    ATMEL ATtiny 85                              
