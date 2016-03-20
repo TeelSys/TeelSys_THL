@@ -10,3 +10,8 @@ More information regarding this project may be found on the [teelsys.com](http:/
 * [I2C Communications between Raspberry Pi and Arduino – Part Three](http://teelsys.com/?p=314)
 * [I2C Communications between Raspberry Pi and Arduino – Part Four](http://teelsys.com/?p=332)
 * [I2C Communications between Raspberry Pi and Arduino – Update, BOM, and Source Control](http://teelsys.com/?p=393)
+
+## Release Notes
+### Version 0.0.1 - 19 March 2016
+* Stable for one I2C device only
+* Uses the Raspberry Pi I2C hardware control
