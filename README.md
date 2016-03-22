@@ -16,6 +16,7 @@ More information regarding this project may be found on the [teelsys.com](http:/
 * Stable for up to three I2C devices
 * Uses the PIGPIO library to bit bang the I2C bus (REF: http://abyz.co.uk/rpi/pigpio/pdif2.html)
 * Documentation should be able to get anyone up and running with this version
+
 #### TODO
 * Writeup complete documentation from start to finish
 ** Add Raspberry Pi Hat (Not a true hat as there is no flash)
