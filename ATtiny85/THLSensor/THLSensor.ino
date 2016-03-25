@@ -6,7 +6,7 @@
 #include <TinyWireS.h>
 #include <dht11.h>
 
-#define SLAVE_ADDRESS 0x32
+#define SLAVE_ADDRESS 0x10
 
 #define PIN_DHT 4
 #define PIN_PHOTORESISTOR A3
